@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HorrorActivity"></activity>
+        <activity android:name=".HorrorActivity" />
+        <activity android:name=".Hprror1_1Activity" />
+        <activity android:name=".Hprror1_2Activity"></activity>
     </application>
 
 </manifest>

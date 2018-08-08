@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">StoryGame</string>
+    <string name="horror1">Once upon a time, you and your are drive in a holly land.\nIt was getting dark. Suddenly, your partner saw ann interesting fire ball in the jungle around the road.\nYour partner asks: DO YOU WANT TO SEE IT?</string>
+    <string name="horror1_1">You left the main road to the right straight to the fire ball.\nIt was foggy and cold. There are some smals rocks along the path.\nA man in strangth behavior appears in middle of the path just about 50 metters front of the car.\nWhat would you do?</string>
+    <string name="horror1_2">You​ are not interested in fire ball, you kept going the main road.\nSeconds later, you heard a strange sound comming behind.\nWhat would do?</string>
 </resources>
