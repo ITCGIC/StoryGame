@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
@@ -42,4 +43,14 @@
             android:layout_height="wrap_content"
             android:text="SciFi" />
     </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="284dp"
+        android:layout_height="260dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/ic_apple9"
+        android:padding="5dp"
+        android:background="@drawable/rounded_corners"/>
 </android.support.constraint.ConstraintLayout>
